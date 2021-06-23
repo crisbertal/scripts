@@ -11,3 +11,4 @@ choco install office-tool -fy
 choco install obsidian -fy
 choco install dropbox -fy
 choco install zotero -fy
+choco install spotify -fy
