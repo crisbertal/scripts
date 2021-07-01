@@ -13,3 +13,4 @@ choco install dropbox -fy
 choco install zotero -fy
 choco install spotify -fy
 choco install winrar -fy
+choco install git -fy
