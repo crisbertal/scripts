@@ -5,7 +5,6 @@
 :: Install all the packages
 
 choco install googlechrome -fy
-choco install vscode -fy
 choco install discord -fy
 choco install office-tool -fy
 choco install obsidian -fy
@@ -17,3 +16,5 @@ choco install git -fy
 
 :: Development
 choco install nodejs -fy
+choco install microsoft-windows-terminal -fy
+choco install vscode -fy
